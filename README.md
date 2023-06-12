@@ -19,6 +19,12 @@ Database :- MySql<br/>
 3️⃣ Personal and customizable DashBoard for the clients<br/>
 4️⃣ Personal Recommendation for the clients based on their Disease/Problems<br/>
 5️⃣ Pre-knowledge / links already proveded on their dashboard to easily access the content based on their problems/requirements.<br/>
-
-
-
+<br/>
+🟠 About the Application<br/>
+1. All the screenshots of the application are given in screenshot folder
+2. Steps to run the application:
+3. I have use MySql as database so you should have MySql in your system.
+4. Extract both the files(Frontend as well as Healthy Life)
+5. Use STS, then import the application inside sts (using maven as the application is in Spring Boot), change root and password to from application.property.
+6. Force Update the maven project and run the Spring Boot Application.
+7. Last step is simple, just run the react application(present in frontend folder) using npm start, and the application will Live. 
